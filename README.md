@@ -2,7 +2,6 @@
 
 Bypasses Discord’s Do Not Disturb (DND) mode.
 Receive notifications from specific users or everyone, with full control over status and ping behavior.
-Compatible with Vencord.
 
 **Features**
 
