@@ -33,3 +33,11 @@ git clone https://github.com/drigma/DND-Bypass-UserPlugins.git
 **Tutorial**
 
 https://www.youtube.com/watch?v=XmVNRKrphlw
+
+**Usage**
+
+* Right-click a user -> “Add to DND Whitelist”
+
+* Or edit from: Settings -> Plugins -> DnDBypass
+
+* Empty whitelist = bypass everyone
